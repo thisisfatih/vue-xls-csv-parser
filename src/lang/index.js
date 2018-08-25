@@ -9,8 +9,8 @@ export default {
     select: 'Select',
     selectColumn: 'Please choose a column',
     file: {
-      select: 'Please select a file',
-      tryAgain: 'Choose another file',
+      select: 'Please select a file--FTH',
+      tryAgain: 'Choose another file--FTH',
       withHeaders: 'This file includes headers',
       withoutHeaders: 'This file does not include headers',
     },
